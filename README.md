@@ -2,6 +2,20 @@
 
 My personal overview and analysis for how 'blackhats or cybercriminals' make money in the realm of hacking and cyber. 
 
+While some people do entire chains of attacks on their own, the majority of 'hackers' only partake in 1 or 2 individual parts of the chain or unique vectors.
+
+
+Something interesting to note is Andrew Tates success largely relies on 2 aspects that were very popular in the hacking scenes before they were mainstreamed. Ewhoring and Drop Shipping. Then he moved onto the third most common in the money making scene within hacking communities - selling PDFs of his methods. Coming from the chess world and being online, I'm not here to make accusations but I strongly believe he found his way into these communities at some point.
+ewhoring is not really seen as 'hacking' but at the time was a form of social engineering. Most of it ended up being automated by scripts which also would be then sold. The people making the bots and scripts were usually separate once again from the people actually running it.
+
+Runescape was a massive push in the hacking scene due to people noting the game had real world value in exchanging cash from the game. This mean hacking other peoples accounts, finding exploits in the game to make in game currency faster or scamming was a huge influence.
+
+Then World of warcraft had a similar thing, then minecraft for griefing as well as games like habbo hotel.
+Hacking peoples accounts and selling off items etc was a huge influence on money making.
+
+Stealer logs are more common now than their more advanced counterparts (RATs) as most people don't care about the sustained access for creating botnets to DDoS or to sell off clients/slaves later. Stealer logs simply take cookies, usernames, passwords and send that off to let's say a Discord or Telegram channel then delete themselves off the users PC.
+
+
 ## Core Concept: Division of Labor
 The underground economy operates on specialized roles because:
 - **Risk Distribution**: Spreading liability across multiple actors
