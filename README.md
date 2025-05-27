@@ -1,6 +1,6 @@
 # Hacking-as-a-Service: Specialization and Economics
 
-My personal overview and analysis for how 'blackhats' make money in the real of hacking and cyber. 
+My personal overview and analysis for how 'blackhats' make money in the realm of hacking and cyber. 
 
 While some people do entire chains of attacks on their own, the majority of 'hackers' only partake in 1 or 2 individual parts of the chain or unique vectors.
 
